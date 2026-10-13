@@ -2,7 +2,7 @@
 
 This app estimates and compares the buckling loads of columns under axial compression. It calculates column properties and shows how the result changes with the column's slenderness. It is an educational tool, not a substitute for engineering review.
 
-## Theories and formulas
+## Theories and formula
 
 The app uses Euler, Rankine-Gordon, and Johnson's parabolic theory. The effective length and slenderness are:
 
